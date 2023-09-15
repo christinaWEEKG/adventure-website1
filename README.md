@@ -58,17 +58,24 @@ b) ‘Tours -Package’
 ![image](https://github.com/christinaWEEKG/adventure-website1/assets/92296147/286bc142-41a6-40cf-bc37-031d888d3465)
 
 
+
 c)	‘Tours – Free & Easy’
+
 ![image](https://github.com/christinaWEEKG/adventure-website1/assets/92296147/9b029b47-14f7-4e45-8c8f-0a8eb63e5925)
 
 
+
 d)‘Gallery’
+
 ![image](https://github.com/christinaWEEKG/adventure-website1/assets/92296147/a699e8d9-b629-4823-a4e3-06f65a3aa962)
 
+
 e)	‘Contact’
+
 ![image](https://github.com/christinaWEEKG/adventure-website1/assets/92296147/aeb9a9bf-db33-4e7e-9fb6-fbb28dce95b8)
 
 f)’About us’
+
 ![image](https://github.com/christinaWEEKG/adventure-website1/assets/92296147/bf09bee5-8471-45db-a85e-0f55e6623765)
 
 g) Agency’s contact info:
