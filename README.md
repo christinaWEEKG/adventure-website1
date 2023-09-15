@@ -59,49 +59,10 @@ Pending a few detailed options for the client. This section will be updated when
 b) ‘Tours -Package’
 ![image](https://github.com/christinaWEEKG/adventure-website1/assets/92296147/286bc142-41a6-40cf-bc37-031d888d3465)
 
-a)	
-b)	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 c)	‘Tours – Free & Easy’
+![image](https://github.com/christinaWEEKG/adventure-website1/assets/92296147/529b0d57-14b0-4d52-b186-1cc52c2e72ff)
+
 
 
 
