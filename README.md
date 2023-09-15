@@ -48,57 +48,17 @@ Pending a few detailed options for the client. This section will be updated when
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 6) Wireframe:
  a) ‘HomePage’
+![image](https://github.com/christinaWEEKG/adventure-website1/assets/92296147/b9ba7cc7-bd8e-48ba-80af-56a38100d587)
 
-
-
-
-
-
-
-
-
-
-
-
-                                                                                                                             
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/christinaWEEKG/adventure-website1/assets/92296147/bfecf749-f036-4917-b121-071cc6d2e398)                                                                 
 
 
 
 b) ‘Tours -Package’
+![image](https://github.com/christinaWEEKG/adventure-website1/assets/92296147/286bc142-41a6-40cf-bc37-031d888d3465)
+
 a)	
 b)	
 
